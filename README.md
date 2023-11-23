@@ -2,6 +2,9 @@
 大一寒假随手搓的广东实验中学の铃声播放器  
   
 # 使用说明
+  
+下载MusicLibrary直接运行AutoMusic.exe就行，源代码在main.c中  
+  
 //Timetable  
 //7  : 20～7  : 55 	早读  
 //8  : 00～8  : 40 	第一节	  
